@@ -47,22 +47,22 @@ The goal is to evaluate whether environmental factors—specifically temperature
 ![Population](/images/popbarchart.png)
 
 ## Assault Trends Over Time
-![Assault Trends](Assaultbydate.png)
+![Assault Trends](/images/Assaultbydate.png)
 
 ## Temperature Trends
-![Temperature Trends](TempbyState.png)
+![Temperature Trends](/images/TempbyState.png)
 
 ## Temperature vs Assaults (Overall)
-![Scatter Overview](tempassaultbystate.png)
+![Scatter Overview](/images/tempassaultbystate.png)
 
 ## State-Level Scatter Plots
-![Scatter by State](individualscatterplot.png)
+![Scatter by State](/images/individualscatterplot.png)
 
 ## Regression Models by State
-![Regression](scatterplotswithequation.png)
+![Regression](/images/scatterplotswithequation.png)
 
 ## Temperature Distribution (Boxplots)
-![Boxplots](boxplots.png)
+![Boxplots](/images/boxplots.png)
 
 ## Key Results
 
