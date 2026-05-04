@@ -43,6 +43,26 @@ The goal is to evaluate whether environmental factors—specifically temperature
 * Linear regression modeling
 * Data visualization using `matplotlib`
 
+## Population Distribution
+![Population](popbarchart.png)
+
+## Assault Trends Over Time
+![Assault Trends](Assaultbydate.png)
+
+## Temperature Trends
+![Temperature Trends](TempbyState.png)
+
+## Temperature vs Assaults (Overall)
+![Scatter Overview](tempassaultbystate.png)
+
+## State-Level Scatter Plots
+![Scatter by State](individualscatterplot.png)
+
+## Regression Models by State
+![Regression](scatterplotswithequation.png)
+
+## Temperature Distribution (Boxplots)
+![Boxplots](boxplots.png)
 
 ## Key Results
 
