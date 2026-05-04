@@ -115,6 +115,6 @@ The goal is to evaluate whether environmental factors—specifically temperature
 
 ## Author
 
-Rolando Rivera
+Rolando
 GitHub: https://github.com/ElRiveroski
 
