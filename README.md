@@ -44,7 +44,7 @@ The goal is to evaluate whether environmental factors—specifically temperature
 * Data visualization using `matplotlib`
 
 ## Population Distribution
-![Population](popbarchart.png)
+![Population](/images/popbarchart.png)
 
 ## Assault Trends Over Time
 ![Assault Trends](Assaultbydate.png)
